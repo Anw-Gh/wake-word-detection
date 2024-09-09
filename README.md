@@ -1,7 +1,3 @@
-Here's a README for your wake word detection project:
-
----
-
 # Wake Word Detection
 
 This project focuses on detecting wake words using TensorFlow. It involves collecting and processing audio data, feature extraction, model training, and evaluation.
