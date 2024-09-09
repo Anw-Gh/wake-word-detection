@@ -24,6 +24,8 @@ This project focuses on detecting wake words using TensorFlow. It involves colle
 ## To-Do
 - Explore alternative methods for training:
   - **LSTM Units**: Consider using LSTM units to potentially improve model performance.
+  - fixing some bugs.
+
 
 
 *** The code was modified from a part of (Trigger Word Detection - Sequence Models - DeepLearning.AI - coursera)
